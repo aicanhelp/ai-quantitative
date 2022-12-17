@@ -1,0 +1,9 @@
+[submodule "resources/abu"]
+	path = resources/abu
+	url = https://github.com/bbfamily/abu.git
+[submodule "resources/QUANTAXIS"]
+	path = resources/QUANTAXIS
+	url = https://github.com/yutiansut/QUANTAXIS.git
+[submodule "resources/vnpy"]
+	path = resources/vnpy/vnpy
+	url = https://github.com/vnpy/vnpy.git
