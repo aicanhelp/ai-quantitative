@@ -7,3 +7,9 @@
 [submodule "resources/vnpy"]
 	path = resources/vnpy/vnpy
 	url = https://github.com/vnpy/vnpy.git
+[submodule "resources/backtrader"]
+	path = resources/backtrader
+	url = https://github.com/mementum/backtrader.git
+[submodule "resources/wondertrader"]
+	path = resources/wondertrader
+	url = https://github.com/wondertrader/wondertrader.git
